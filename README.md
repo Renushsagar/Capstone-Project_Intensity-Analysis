@@ -2,11 +2,13 @@ Intensity Analysis (Build your own model using NLP and Python)
 -
 OBJECTIVE:- Develop an intelligent system using NLP to predict the intensity in the text reviews. By analyzing various parameters and process data, the system will predict the intensity where its happiness, angriness or sadness. This predictive capability will enable to proactively optimize their processes, and improve overall customer satisfaction.
 
+Note: For detail understanding please check pdf file attached in data folder
+
 STEP 1: IMPORT NECESSARY LIBRARIES:
 -please see attached notebook folder 
 
 STEP 2 : DATA EXPLORATION
--please see attached data folder
+-please see attached notebook folder
 
 Visual Exploration:
 -please see attached visuals folder
