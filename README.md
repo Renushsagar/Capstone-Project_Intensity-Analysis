@@ -8,10 +8,7 @@ STEP 1: IMPORT NECESSARY LIBRARIES:
 -please see attached notebook folder 
 
 STEP 2 : DATA EXPLORATION
--please see attached notebook folder
-
-Visual Exploration:
--please see attached visuals folder
+-please see attached notebook folder and for Visual Exploration see attached visuals folder
 
 STEP 3: DATA CLEANING AND TOKENIZATION USING NLP
 -please see attached notebook folder 
