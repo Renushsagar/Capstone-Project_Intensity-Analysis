@@ -30,3 +30,7 @@ STEP 8: SAVING THE MODEL
 
 STEP 9: TEST & VALIDATE THE MODEL
 -please see attached models folder 
+
+
+Conclusion: Model with the highest test accuracy is SVM with 70.13%. However, 
+The Logistic Regression model has a relatively good test accuracy (69.70%) and a lower accuracy difference (22.29%) compared to other models. Therefore, considering both accuracy and the accuracy difference, the Logistic Regression model appears to be a reasonable choice.
