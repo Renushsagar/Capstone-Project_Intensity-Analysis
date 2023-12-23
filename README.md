@@ -2,7 +2,7 @@ Intensity Analysis (Build your own model using NLP and Python)
 -
 **Objective:-** Develop an intelligent system using NLP to predict the intensity in the text reviews. By analyzing various parameters and process data, the system will predict the intensity where its happiness, angriness or sadness. This predictive capability will enable to proactively optimize their processes, and improve overall customer satisfaction.
 
-Note: For detail understanding please check attched updated pdf file
+**Note:** For detail understanding please check attched updated pdf file
 
 **Problem Overview**
 This project implements a machine learning pipeline to predict emotions or sentiments. It employs Logistic Regression, KNN, Random Forest, Support Vector Machine, and Naive Bayes classifiers, with TF-IDF vectorization. Performance is evaluated using classification report and accuracy.
@@ -47,5 +47,5 @@ combined shape of dataset is (2039, 2).
 •	Model Evaluation
 •	Test and Validate the final trained model
 
-**Results**
+**Results:-**
 Model with the highest test accuracy is SVM with 70.13%. However, Logistic Regression model has a relatively good test accuracy (69.70%) and a lower accuracy difference (22.29%) compared to other models. Therefore, considering both accuracy and the accuracy difference, the Logistic Regression model appears to be a reasonable choice.
