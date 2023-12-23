@@ -47,5 +47,5 @@ combined shape of dataset is (2039, 2).
 •	Model Evaluation
 •	Test and Validate the final trained model
 
-**Results:-**
+**Conclusion:-**
 Model with the highest test accuracy is SVM with 70.13%. However, Logistic Regression model has a relatively good test accuracy (69.70%) and a lower accuracy difference (22.29%) compared to other models. Therefore, considering both accuracy and the accuracy difference, the Logistic Regression model appears to be a reasonable choice.
